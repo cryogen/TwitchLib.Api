@@ -32,6 +32,8 @@
         Helix_User_Read_Broadcast,
         Helix_Channel_Read_Subscriptions,
         Helix_Moderation_Read,
+        Chat_Read,
+        Chat_Edit,
         None
     }
 }
